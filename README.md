@@ -2,5 +2,5 @@
 
 
 ```
-quickemu --vm ubuntu.conf
+quickemu --vm qemu.conf
 ```
